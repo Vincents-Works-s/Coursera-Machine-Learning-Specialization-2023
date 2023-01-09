@@ -1,7 +1,7 @@
 # Coursera-Machine-Learning-Specialization-2023
 Introductory Machine Learning Online Course by Coursera with Andrew Ng based on his Stanford course
 
-# To run, download requirements.txt file and install packages with '''pip install -r requirements.txt''' in virtual env
+#### \~~To run, download requirements.txt file and install packages with ```pip install -r requirements.txt``` in virtual env
 
 ## Course Overview
 ### **___Supervised Machine Learning: Regression and Classification___**
